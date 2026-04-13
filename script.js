@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   "use strict";
 
   // Configuracoes principais do jogo.
